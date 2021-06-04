@@ -1,5 +1,8 @@
 # Django 서버 관리자페이지 화면
 
+https://user-images.githubusercontent.com/32862869/120785905-927f0280-c568-11eb-97a9-7c45f4279031.mp4
+
+
 
 # 설명
 Django 서버와 다른 클라이언트 연동 공부를 위한 퀴즈앱 프로젝트를 진행하였습니다.
